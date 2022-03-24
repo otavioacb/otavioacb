@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioacb&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-## Habilidades
+## Programming Skills
 
 <div>
   <img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg"/>
