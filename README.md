@@ -8,7 +8,5 @@
 
 ## Programming Skills
 
-<div>
-  <img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg"/>
-  <img height="50px" width="50px" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,raspberrypi,arduino,linux)](https://skillicons.dev)
+
